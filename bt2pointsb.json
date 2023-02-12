@@ -1,0 +1,112 @@
+{
+  "general": {
+   "n": 11
+  },
+
+
+ "cube1": {
+  },
+
+  "position1": {
+   "action": "move",
+   "xref": 0.15,
+    "yref": -0.43575,
+    "zref": 0.35596,
+   "Rxref": 3.14,
+    "Ryref": 0,
+    "Rzref": 0
+  },
+  "position2": {
+   "action": "move",
+   "xref": 0.9,
+    "yref": -0.43575,
+    "zref": 0.36568,
+   "Rxref": 3.14,
+    "Ryref": 0,
+    "Rzref": 0
+  },
+  "position3": {
+   "action": "move",
+   "xref": 0.15,
+    "yref": -0.43575,
+    "zref": 0.35596,
+   "Rxref": 3.14,
+    "Ryref": 0,
+    "Rzref": 0
+  },
+  "position4": {
+   "action": "move",
+   "xref": 0.9,
+    "yref": -0.43575,
+    "zref": 0.36568,
+   "Rxref": 3.14,
+    "Ryref": 0,
+    "Rzref": 0
+  },
+    
+  "position5": {
+   "action": "move",
+   "xref": 0.15,
+    "yref": -0.43575,
+    "zref": 0.35596,
+   "Rxref": 3.14,
+    "Ryref": 0,
+    "Rzref": 0
+  },
+  "position6": {
+   "action": "move",
+   "xref": 0.9,
+    "yref": -0.43575,
+    "zref": 0.36568,
+   "Rxref": 3.14,
+    "Ryref": 0,
+    "Rzref": 0
+  },
+    "position7": {
+   "action": "move",
+   "xref": 0.15,
+    "yref": -0.43575,
+    "zref": 0.35596,
+   "Rxref": 3.14,
+    "Ryref": 0,
+    "Rzref": 0
+  },
+  "position8": {
+   "action": "move",
+   "xref": 0.9,
+    "yref": -0.43575,
+    "zref": 0.36568,
+   "Rxref": 3.14,
+    "Ryref": 0,
+    "Rzref": 0
+  },
+    "position9": {
+   "action": "move",
+   "xref": 0.15,
+    "yref": -0.43575,
+    "zref": 0.35596,
+   "Rxref": 3.14,
+    "Ryref": 0,
+    "Rzref": 0
+  },
+  "position10": {
+   "action": "move",
+   "xref": 0.9,
+    "yref": -0.43575,
+    "zref": 0.36568,
+   "Rxref": 3.14,
+    "Ryref": 0,
+    "Rzref": 0
+  },
+    "position11": {
+   "action": "end",
+   "xref": 0.9,
+    "yref": -0.43575,
+    "zref": 0.36568,
+   "Rxref": 3.14,
+    "Ryref": 0,
+    "Rzref": 0
+  }
+
+  
+}
